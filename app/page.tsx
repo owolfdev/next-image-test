@@ -14,7 +14,7 @@ export default function Home() {
       />
       <img
         src="https://qhfrqatbwoddkjwqhbso.supabase.co/storage/v1/object/public/expenses/1686001999045_qrcode%20(1).jpg"
-        alt=""
+        alt="ddd"
       />
     </main>
   );
